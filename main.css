@@ -1,0 +1,17 @@
+
+body {
+  background: crimson;
+  font-family: monospace;
+  color: white;
+  width: 800px;
+  margin: auto;
+  padding-top: 50px;
+}
+.chart rect {
+  fill: steelblue;
+}
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
