@@ -1,0 +1,13 @@
+
+body {
+  background: crimson;
+  outline: 4px solid purple;
+}
+.diagram circle {
+  fill: purple;
+  stroke: black;
+  stroke-width: 4;
+}
+.diagram text {
+  fill: #eee;
+}
